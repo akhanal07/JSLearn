@@ -1,1 +1,1 @@
-Random guessing
+Random number guessing
